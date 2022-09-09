@@ -16,7 +16,7 @@ Telegram File Renamer Bot
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/itsyogieu/PYRO-RENAME-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/Anthoniraj82627/PYRO-RENAME-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -77,10 +77,10 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
+<a href="@tamilmovieeshdBot">
    <p> lntechnical TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="@tamilmovieeshdBot">
    <p> lntechnical YT </p>
   </a>
 
